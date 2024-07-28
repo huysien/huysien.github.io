@@ -21,7 +21,7 @@
 title: Huy Phạm
 email: admin@huypham.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Có những điều trong cuộc đời này tôi muốn ghi lại, không phải để nhớ, mà để nhớ rằng mình đã từng trải qua.
+  Software Architecture, iOS, Flutter, và hơn thế nữa.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://huypham.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: huysien
